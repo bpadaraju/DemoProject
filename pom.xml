@@ -45,7 +45,7 @@
 							<testSuite>TestSuite - UserLogin</testSuite>
 							<outputFolder>reports</outputFolder>
 							<junitReport>true</junitReport>
-							<exportwAll>true</exportwAll>
+							<exportAll>true</exportAll>
 							<printReport>true</printReport>
 							<testFailIgnore>true</testFailIgnore>
 						</configuration>
